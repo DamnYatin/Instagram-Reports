@@ -2,10 +2,10 @@
 
 Instagram-Reports is a tool made to ban any scam or bad person.
 
-# Installation :
+# Installation :sudo apt-get update -y
 
 ```
-sudo apt-get update -y
+sudo https://www.instagram.com/horn__blow___?igsh=M3JxOGF0eGU1ZGdk update -y
 ```
 
 ```
