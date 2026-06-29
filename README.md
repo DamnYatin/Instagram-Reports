@@ -1,3 +1,6 @@
+# This project has been deprecated. Thanks for your support.
+### Please do not open any issues related to the code not working or banning someone's ID
+
 # ABOUT TOOL :
 
 Instagram-Reports is a tool made to ban any scam or bad person.
