@@ -196,4 +196,7 @@ Choose the type of report :
 elif ('{"message":"checkpoint_required"') in r.text:
 	print(R+"[!]checkpoint")
 else:
-	print(R+"Error, Try again")
+    print(R + "Error, Try again")
+    print("HTTP Status:", r.status_code)
+    print("Content-Type:", r.headers.get("Content-Type"))
+    print("Response preview:", r.text[:200]
